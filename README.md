@@ -1,4 +1,4 @@
-# Portfolio
+# Web Developer Portfolio
 
 This is a simple single-page Web Developer Portfolio. This is built using HTML5 CSS JavaScript.
 easy to uses and deploy on free hosting platforms like Github Pages, Netlify and Vercel etc.
